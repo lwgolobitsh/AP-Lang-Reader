@@ -1,0 +1,166 @@
+A STUDY OF THE ABUNDANCE DISTRIBUTIONS
+ALONG THE MINOR AXIS OF THE GALACTIC BULGE
+NEIL D. TYSON
+Princeton University Observatory, Princeton, New Jersey 08544 USA
+R. MICHAEL RICH
+Department of Astronomy, Columbia University, New York 10027 USA
+ABSTRACT
+We derive the heavy element abundances for hundreds of K-giants in
+seven windows of low extinction, along or near the minor axis of the Galactic
+bulge. By using the recently-calibrated Washington photometric filter
+system, the distribution function in [Fe/H] is determined for each field.
+Within 8° of the Galactic center 1 kpc) our data are consistent with no
+gradient in the distribution of [Fe/H], which may hint to a dissipationless
+collapse, and/or sufficient mixing during the star-forming epoch when Fe was
+produced in the bulge. The mean abundance over this region is between two
+and five times solar. The form of these distributions is well-fitted by the
+simple (closed box) model of chemical evolution where the bulge is selfenriched by processing its original gas content to completion. Beyond 8°
+from the Galactic center, our data show that the mean of the abundance
+distributions drops precipitously. This is consistent with the notion that the
+inner bulge is chemically distinct from the halo.
+1. OBSERVATIONS
+We used the recently calibrated Washington photometric system
+(Geisler, et al. 1991) to obtain photometric abundances for hundreds of Réglants in seven low extinction windows to the Galactic bulge. The data were
+obtained on the 0.9m telescope at CTIO. Abundances accurate to ±0.25 dex
+in [Fe/H] were derived for each K-giant using the metallicity-sensitive indices
+of the Washington system. (For a recent review of the Washington system
+see Tyson 1991).
+2. ABUNDANCE DISTRIBUTIONS
+The shape of the stellar abundance distribution holds valuable
+information about the history of chemical enrichment in a system. The
+distributions for the inner fields (i.e. b = -2.7°, -4°, -6°) bear a remarkable
+resemblance to the gaussian-convolved abundance distribution of the closed
+box, simple model of chemical evolution (Searle & Zinn 1978, also Rich
+1990). Fig. 1 displays the abundance distribution for the inner-most field of
+this study. Error bars represent the typical errors in precision for a single
+observation derived from the photometric uncertainties. There is the
+333
+H. Dejonghe and H. J. Habing (eds.), Galactic Bulges, 333-335.
+© 1993 Kluwer Academic Publishers. Printed in the Netherlands.
+https://doi.org/10.1017/S0074180900123484 Published online by Cambridge University Press
+Field: Sagittarius
+[ Fe / H ]
+Figure 1 Abundance distributio
+n for the Sagittarius fiel
+d (b
+= -2.7°) overlai
+d wit
+h an error-convolve
+d distributio
+n expected
+for the close
+d bo
+x simple model of chemical evolution.. There
+is remarkable agreement wit
+h the abundance distribution
+expecte
+d fro
+m the simple model of chemical evolutio
+n where a
+syste
+m has processe
+d completel
+y its original gas supply. The
+characteristic features are immediately apparent, suc
+h as the
+lon
+g lo
+w abundance tail, an
+d the relativel
+y stee
+p high
+abundance shoulder. The error bar represents the errors in
+photometric precision.
+kpc
+Ο 0.7 1.4 2.1 2.9
++1.0
++0.5
+ο
+Λ 0
+Κ
+»
+V -0.5
+-l.C
+-1.5
+0 -5 -10 -15 -20
+b°
+Figure 2. Galactic latitude dependence of the mea
+n i
+n the
+abundance distributions. Plotte
+d is the error-correcte
+d lo
+g of
+the mea
+n abundance at all latitudes. The mea
+n abundance does
+not sho
+w a tren
+d downwar
+d until beyon
+d - 1 kpc. The
+similarity amon
+g the inner latitudes i
+n their mea
+n abundance
+suggests strongly that the bulge, withi
+n about 1 kpc, followed
+commo
+n evolution. The similarity an
+d shape of the abundance
+distributions for the inner fields suggests a commo
+n evolution
+describe
+d b
+y the close
+d bo
+x simple model of chemical
+evolution.
+https://doi.org/10.1017/S0074180900123484 Published online by Cambridge University Press
+62
+characteristic extended tail toward lower abundances and the relatively steep
+shoulder at high abundance. Consequently, our data suggest that the bulge
+abundance distributions, out to b = -6°, are consistent with a fully mixed,
+closed box, simple model of chemical evolution that has processed its gas to
+completion.
+3. DISCUSSION
+To supplement interpretation of the abundance distributions we can
+look at the run of the log mean abundance, [<Fe/H>], as a function of
+Galactic latitude. This constitutes the first direct measurement of the latitude
+dependence of [Fe/H] in the Galactic bulge. Fig. 2 presents these data. The
+errors are large, but two convincing features are immediately apparent: [1]
+The inner latitudes stay at roughly constant mean abundance [Fe/H] « 0.4 ±
+0.3 (r < 1 kpc), which suggests that the bulge, within about 1 kpc, is a
+chemically well-mixed volume. There is a small trend for [<Fe/H>] to drop
+within b = -6°, but given the relatively large errors, it is not clear whether
+much should be made of this feature. The fact that the abundance
+distributions for the three inner latitudes show good agreement with the
+analytic form of the abundance distribution from the closed box simple model
+suggests strongly that the inner bulge is self-enriched. [2] Outside of the
+inner 1 kpc, the mean abundance begin a precipitous 1.5 dex drop to latitude
+b = - 17.3°. This drop is remarkable when we consider that it occurs over
+just 1 kpc. The la error bars in Fig. 2 are computed from the photometric
+and zero-point errors. The statistical uncertainty in the mean abundance (σ /
+N~m) for each field is considerably smaller.
+4. FUTURE
+One of the most useful aspects of the Washington system is its ability
+to flag interesting stars of unusually high (or low) abundance for follow-up
+spectroscopy. As emphasized by D. Terndrup at this conference, the idea of
+a kinematic dependence on abundance in the Galactic bulge is an exciting
+topic that demands much further study. In collaboration with D. N. Spergel
+(Princeton), we plan to obtain medium resolution spectra of the highest and
+lowest abundance stars from the abundance distributions of this study.
+Spergel has developed computer models of the Galactic bulge that allow one
+to derive observable quantities from segregated orbit families in phase space.
+We expect this approach to be a powerful analytic tool that will enable
+interpretive leverage on abundance and velocity distributions that would not
+otherwise be possible.
+REFERENCES
+Geisler, Clariâ, J. & Minniti, D. 1991, AJ 102, 1836
+Rich, R. M. 1990, in Bulges of Galaxies, ed. Jarvis & Terndrup (Garching: ESO) p. 65
+Searle, L. & Zinn R. 1978, ApJ 225, 357.
+Tyson, N. 1991, in Precision Photometry: Astrophysics of the Galaxy, ed. Philip,
+Upgren, & Janes, (Schenectady: L. Davis Press), p. 193
+https://doi.org/10.1017/S0074180900123484 Published online by Cambridge University Press
+^f/ex PjÜELtä
+https://doi.org/10.1017/S0074180900123484 Published online by Cambridge University Press
